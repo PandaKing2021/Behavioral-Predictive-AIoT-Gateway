@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Arduino
+*.cpp.d
+*.cpp.o
+*.h.d
+*.o
+*.a
+
+# Android
+*.apk
+*.ap_
+*.dex
+local.properties
+.gradle
+.cxx
+.externalNativeBuild
+.ccache
+
+# Materials and experiment data (exclude from repository)
+meterials/
+experiment_results/
+supplementary_results/
+*.npy
+*.pth
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Config files with sensitive data
+GateConfig.txt
+UserConfig.txt
+serverConfig.txt
+config.properties
+
+# Models (large files, exclude from repository)
+*.onnx
+*.h5
+*.pkl
+*.pb
+
+# Documentation that should be in materials
+COMPLETE_EXPERIMENT_REPORT.*
+DATABASE_SERVER_*.md
+EXPERIMENT_SUMMARY.md
+FINAL_EXPERIMENT_REPORT.md
+GATEWAY_TEST_REPORT.md
+OPTIMIZATION_REPORT.md
+QUICK_REFERENCE.md
+TEST_REPORT.md
+TESTING_FINAL_SUMMARY.md
+PROJECT_MIGRATION_REPORT.md
+*.experiment.log

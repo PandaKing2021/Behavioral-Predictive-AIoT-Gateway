@@ -1,0 +1,38 @@
+{
+  "name": "translate",
+  "leadAgentId": "138c76f922f6475fbe16889a044f8f4f",
+  "workspacePath": "d:/projects/Behavioral-Predictive-AIoT-Gateway-zh_cn",
+  "createdAt": "2026-05-03T13:47:47.631Z",
+  "options": {
+    "workspacePath": "d:/projects/Behavioral-Predictive-AIoT-Gateway-zh_cn",
+    "isAutoTeam": false
+  },
+  "members": [
+    {
+      "memberId": "team-lead@translate",
+      "name": "team-lead",
+      "role": "Team Lead - coordinates the team and interacts with the user"
+    },
+    {
+      "memberId": "dev-guide-translator@translate",
+      "name": "dev-guide-translator",
+      "role": "Translate DEVELOPER_GUIDE.md"
+    },
+    {
+      "memberId": "python-translator@translate",
+      "name": "python-translator",
+      "role": "Translate Python code files"
+    },
+    {
+      "memberId": "device-translator@translate",
+      "name": "device-translator",
+      "role": "Translate Device Unit code"
+    },
+    {
+      "memberId": "android-translator@translate",
+      "name": "android-translator",
+      "role": "Translate Android app code"
+    }
+  ],
+  "isAutoTeam": false
+}
